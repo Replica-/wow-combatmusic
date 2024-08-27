@@ -177,5 +177,6 @@ function Panel_OnLoad(panel)
     panel.name = 'SimpleCombatMusic'
 	frame = panel
 
-    InterfaceOptions_AddCategory(panel);
+	Settings.RegisterAddOnCategory(Settings.RegisterCanvasLayoutCategory(panel, "SimpleCombatMusic"))
 end
+

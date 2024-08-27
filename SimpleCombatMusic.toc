@@ -1,5 +1,5 @@
-## Interface: 100017
-## Version: 1.0.8
+## Interface: 110002
+## Version: 1.0.9
 ## Title: SimpleCombatMusic
 ## Notes: Inspired by Van32 - Simple combat music addon!
 ## Author: Slouchy

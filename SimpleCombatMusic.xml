@@ -2,9 +2,7 @@
 	<Script file="SimpleCombatMusic.lua" />
 	<Frame name="MyAddon_Frame">
 		<Scripts>
-			<OnLoad>
-				Panel_OnLoad(self);
-			</OnLoad>
+			<OnLoad function="Panel_OnLoad"/>
 		</Scripts>
 		  <Anchors>
 			<Anchor point="CENTER"/>
